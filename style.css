@@ -8,6 +8,11 @@
   box-sizing: border-box;
   font-family: 'Gilroy', sans-serif;
 }
+body {
+  max-width: 1200px;
+  margin: auto;
+  background-color: #6a149b;
+}
 html{
   font-size: 16px;
   overflow: hidden;
@@ -33,8 +38,6 @@ header{
   display: flex;
   align-items: center;
   justify-content: space-between;
-
-  max-width: 1200px;
   width: 100%;
   height: 70px;
 
@@ -80,6 +83,7 @@ nav ul li a {
 }
 
 #home {
+  background-color: white;
   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 9)) ,url('images/logo.png');
   background-repeat: no-repeat;
   background-size: contain;
@@ -280,7 +284,6 @@ main{
 /*                    FOOTER                      */
 /* ---------------------------------------------- */
 footer{
-  max-width: 1200px;
   height: 60px;
 
   margin: 0 auto;
@@ -303,6 +306,23 @@ footer{
 .copyright p{
   color: #FFF;
 }
+
+
+
+/* ---------------------------------------------- */
+/*             SCREEN WIDTH < 320px               */
+/* ---------------------------------------------- */
+@media (max-width: 320px) {
+  header p {
+    display: none;
+  }
+  footer {
+    height: 90%;
+  }
+  .copyright {
+    padding-top: 8px;
+  }
+}
 /* ---------------------------------------------- */
 /*             SCREEN WIDTH < 600px               */
 /* ---------------------------------------------- */
@@ -311,6 +331,15 @@ footer{
       display: flex;
       flex-wrap: wrap;
       align-items: flex-start;
+      padding-top: 25px;
+  }
+  .total-cases,
+  .recovered,
+  .deaths {
+    padding-left: 10px;
+  }
+  .chart {
+    padding: 0;
   }
   html {
 
@@ -331,4 +360,86 @@ footer{
     font-size: 60px;
     padding: 250px 50px 50px 50px;
   }
+  .stats {
+    padding: 100px 0;
+  }
 }
+
+/* ---------------------------------------------- */
+/*             SCREEN WIDTH > 768px               */
+/* ---------------------------------------------- */
+@media (min-width: 768px) {
+  #home,
+  #about {
+    height: 100vh;
+  }
+  #home p {
+    padding-top: 350px;
+  }
+  .stats {
+    padding: 100px 0;
+  }
+ header,
+ footer {
+   padding: 40px;
+ }
+ header p,
+ header a,
+ footer p {
+   font-size: 25px;
+ }
+}
+
+/* ---------------------------------------------- */
+/*             SCREEN WIDTH > 1024px               */
+/* ---------------------------------------------- */
+@media (min-width: 1024px) {
+  #home,
+  #about {
+    height: 85vh;
+  }
+  #home p {
+    font-size: 100px;
+    padding-top: 250px;
+  }
+  #start {
+    font-size: 50px;
+  }
+  #about p {
+    padding-top: 250px;
+  }
+  .stats {
+    padding: 0;
+    padding-top: 50px;
+  }
+  .latest-report {
+    font-size: 30px;
+    margin: 0 5%;
+  }
+  .total-cases,
+  .recovered,
+  .deaths {
+    padding-left: 50px;
+  }
+  header p,
+  header a,
+  footer p {
+    font-size: 30px;
+  }
+  .copyright p {
+    padding-bottom: 15px;
+  }
+ }
+
+
+/* 
+  pixel2 411 x 731 v
+  pixel2xl 411 x 823 v
+  iphone5se 320 x 568 v/h
+  iphone678plus 414 x 736 v
+  iphonex 375 x 812 v
+  ipad 768 x1024 v
+ipadpro 1024 x 1366 v
+  surfaceduo 540 x 720 v
+  galaxyfold 280 x 653 v/h
+ */

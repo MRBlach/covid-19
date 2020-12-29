@@ -1,17 +1,20 @@
 const start = document.querySelector('#start').addEventListener('click', mainPage);
 function mainPage(e) {
+  document.querySelector('footer').hidden = true;
   document.querySelector('main').hidden = false;
   document.querySelector('#home').hidden = true;
   document.querySelector('#about').hidden = true;
 };
 const goHome = document.querySelector('#goHome').addEventListener('click', homePage);
 function homePage(e) {
+  document.querySelector('footer').hidden = false;
   document.querySelector('main').hidden = true;
   document.querySelector('#home').hidden = false;
   document.querySelector('#about').hidden = true;
 };
 const goAbout = document.querySelector('#goAbout').addEventListener('click', aboutPage);
 function aboutPage(e) {
+  document.querySelector('footer').hidden = false;
   document.querySelector('main').hidden = true;
   document.querySelector('#home').hidden = true;
   document.querySelector('#about').hidden = false;
