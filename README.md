@@ -13,6 +13,24 @@ COVID-19 Tracker
     <img src="https://img.shields.io/badge/$-donate-49eb34.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
+
+## Key Features
+
++ Live updates on stats
++ Over 200 countries to choose from
++ Graphical analysis of 3 key data points: <br>
+  -Recovered <br>
+  -Deaths <br>
+  -Total Cases <br>
++ Responsive Design
+
+<a href="https://www.patreon.com/MRBlach">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
+# Site
+### Landing Page
+COVID-19 Tracker is design responsive automatically scaling its content to match the screen size.
    <img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports.png?raw=true">
    
 ## Buy me a coffee
@@ -45,7 +63,19 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[<img alt="user profile picture" src="https://avatars2.githubusercontent.com/u/63516905?s=400&u=d0e71b411817b251a76682adcc5c36885692aa26&v=4" width="25%"/>](https://github.com/MRBlach)  |<img alt="you tube icon" src="https://github.com/MRBlach/covid-19/blob/main/images/youtube.png?raw=true" width="25%"/>
+[<img alt="user profile picture" src="https://github.com/MRBlach/covid-19/blob/main/images/avatar.png?raw=true"/>](https://github.com/MRBlach)  |
 ---|---
-[Melody R Blachowicz](https://github.com/MRBlach) |[Code Explained](https://www.youtube.com/watch?v=BzUFQDP8B28)
+[Melody R Blachowicz](https://github.com/MRBlach) |
 
+## You may also like..
++ [Weather App](https://github.com/MRBlach/weather-api "Weather App") - Local forcasting weather app
+
+## Acknowledgments
+
+Thanks to **Code Explained** for supporting us with a [free Open Source License](https://www.youtube.com/watch?v=BzUFQDP8B28)
+<br>
+<img alt="you tube icon" src="https://github.com/MRBlach/covid-19/blob/main/images/youtube.png?raw=true"/>
+
+Thanks to **COVID19api.com** for providing a [free API for data on the Coronavirus](https://covid19api.com/)
+<br>
+<img alt="api logo" src="https://github.com/MRBlach/covid-19/blob/main/images/covid19api.png?raw=true" />
