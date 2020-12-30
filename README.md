@@ -45,7 +45,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![MRBlach](https://avatars2.githubusercontent.com/u/63516905?s=400&u=d0e71b411817b251a76682adcc5c36885692aa26&v=4)](https://github.com/MRBlach)  | [! [Code Explained] (https://github.com/MRBlach/covid-19/blob/main/images/youtube.png?raw=true)] (https://www.youtube.com/watch?v=BzUFQDP8B28)
+[![MRBlach](https://avatars2.githubusercontent.com/u/63516905?s=400&u=d0e71b411817b251a76682adcc5c36885692aa26&v=4)](https://github.com/MRBlach)  | ![YouTube Icon](https://github.com/MRBlach/covid-19/blob/main/images/youtube.png?raw=true)
 ---|---
 [Melody R Blachowicz](https://github.com/MRBlach) |[Code Explained](https://www.youtube.com/watch?v=BzUFQDP8B28)
 
