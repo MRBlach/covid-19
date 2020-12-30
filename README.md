@@ -13,4 +13,4 @@ COVID-19 Tracker
     <img src="https://img.shields.io/badge/$-donate-49eb34.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
-   <img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports-covid-19-tracker.png?raw=true">
+   <img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports.png?raw=true">
