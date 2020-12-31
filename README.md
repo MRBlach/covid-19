@@ -23,7 +23,7 @@ COVID-19 Tracker
 - [Team](#team)
 - [Acknowledgments](#acknowledgments)
 
-## Introduction{:#introduction}
+<h1 id="introduction">
 
 ## Key Features{:#features}
 + Live updates on stats
