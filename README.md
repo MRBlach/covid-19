@@ -23,9 +23,9 @@ COVID-19 Tracker
 - [Team](#team)
 - [Acknowledgments](#acknowledgments)
 
-<h1 id="introduction">
+<h1 id="introduction">Introduction</h1>
 
-## Key Features{:#features}
+<h1 id="features">Key Features</h1>
 + Live updates on stats
 + Over 200 countries to choose from
 + Graphical analysis of 3 key data points: <br>
@@ -35,7 +35,7 @@ COVID-19 Tracker
 + Responsive Design
 
 ---
-## Site {:#site}
+<h1 id="site">Site</h1>
 ### Landing Page
 COVID-19 Tracker is design responsive automatically scaling its content to match the screen size.
    <img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports.png?raw=true">
@@ -44,7 +44,7 @@ COVID-19 Tracker is design responsive automatically scaling its content to match
 Here is a working live demonstration: https://mrblach.github.io/covid-19/
 
 ---
-## Development {:#development}
+<h1 id="development">Development</h1>
 ### Contribute To The Code
 To fix a bug or enhance an existing module, follow these steps:
 
@@ -63,7 +63,7 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/MRBlach/covid-19/issues/new). Please include sample queries and their corresponding results.
 
 ---
-## Team {:#team}
+<h1 id="team">Team</h1>
 <img alt="user profile picture" src="https://github.com/MRBlach/covid-19/blob/main/images/avatar.png?raw=true"/>
 ![Melody R Blachowicz](https://github.com/MRBlach) 
  
@@ -73,7 +73,7 @@ Whether you use this project, have learned something from it, or just like it, p
 <a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> or <a href="https://www.patreon.com/MRBlach"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
 
 ---
-## Acknowledgments {:#acknowledgments}
+<h1 id="acknowledgments">Acknowledgments</h1>
 Thanks to **Code Explained** for supporting us with a [free COVID tracker tutorial](https://www.youtube.com/watch?v=BzUFQDP8B28)
 <br>
 Thanks to **COVID19api.com** for providing the [free API for data on the Coronavirus](https://covid19api.com/)
