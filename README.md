@@ -25,6 +25,8 @@ COVID-19 Tracker
 
 <h1 id="introduction">Introduction</h1>
 
+An app using COVID19 API to display the latest coronavirus statistics. View current case counts by country. Graphically compare recovery counts to death counts. Available across multiple devices.
+
 <h1 id="features">Key Features</h1>
 
 + Live updates on stats
@@ -40,7 +42,7 @@ COVID-19 Tracker
 
 ### Landing Page
 
-COVID-19 Tracker is design responsive automatically scaling its content to match the screen size.
+Our responsive design approach allows for ease of access across multiple devices.
    <img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports.png?raw=true">
 
 ### Demo
