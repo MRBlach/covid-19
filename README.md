@@ -13,7 +13,9 @@ COVID-19 Tracker
     <img src="https://img.shields.io/badge/$-donate-49eb34.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
+
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Key Features](#features)
 - [Site](#site)
@@ -21,9 +23,9 @@ COVID-19 Tracker
 - [Team](#team)
 - [Acknowledgments](#acknowledgments)
 
-## Introduction {:#introduction}
+## Introduction{:#introduction}
 
-## Key Features {:#features}
+## Key Features{:#features}
 + Live updates on stats
 + Over 200 countries to choose from
 + Graphical analysis of 3 key data points: <br>
