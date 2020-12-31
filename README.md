@@ -78,15 +78,15 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time to open-source projects like this.
 
-<a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> or <a href="https://www.patreon.com/MRBlach"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
+<a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>   or   <a href="https://www.patreon.com/MRBlach"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
 
 ---
 <h1 id="acknowledgments">Acknowledgments</h1>
 
-Thanks to **Code Explained** for supporting us with a [free COVID tracker tutorial](https://www.youtube.com/watch?v=BzUFQDP8B28)
++ Thanks to **Code Explained** for supporting us with a [free COVID tracker tutorial](https://www.youtube.com/watch?v=BzUFQDP8B28)
 <br>
-Thanks to **COVID19api.com** for providing the [free API for data on the Coronavirus](https://covid19api.com/)
++ Thanks to **COVID19api.com** for providing the [free API for data on the Coronavirus](https://covid19api.com/)
 
 ### You may also like..
 
-+ [Weather App](https://github.com/MRBlach/weather-api "Weather App") - Local forcasting weather app
++ [Weather App](https://github.com/MRBlach/weather-api "Weather App") - Local weather forcast app
