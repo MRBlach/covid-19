@@ -84,7 +84,6 @@ Whether you use this project, have learned something from it, or just like it, p
 <h1 id="acknowledgments">Acknowledgments</h1>
 
 + Thanks to **Code Explained** for supporting us with a [free COVID tracker tutorial](https://www.youtube.com/watch?v=BzUFQDP8B28)
-<br>
 + Thanks to **COVID19api.com** for providing the [free API for data on the Coronavirus](https://covid19api.com/)
 
 ### You may also like..
