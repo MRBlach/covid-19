@@ -26,6 +26,7 @@ COVID-19 Tracker
 <h1 id="introduction">Introduction</h1>
 
 <h1 id="features">Key Features</h1>
+
 + Live updates on stats
 + Over 200 countries to choose from
 + Graphical analysis of 3 key data points: <br>
@@ -36,16 +37,21 @@ COVID-19 Tracker
 
 ---
 <h1 id="site">Site</h1>
+
 ### Landing Page
+
 COVID-19 Tracker is design responsive automatically scaling its content to match the screen size.
    <img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports.png?raw=true">
 
 ### Demo
+
 Here is a working live demonstration: https://mrblach.github.io/covid-19/
 
 ---
 <h1 id="development">Development</h1>
+
 ### Contribute To The Code
+
 To fix a bug or enhance an existing module, follow these steps:
 
 - Fork the repo
@@ -69,6 +75,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 [Melody R Blachowicz](https://github.com/MRBlach) 
  
 ### Support Me With Coffee
+
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time to open-source projects like this.
 
 <a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> or <a href="https://www.patreon.com/MRBlach"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
@@ -81,4 +88,5 @@ Thanks to **Code Explained** for supporting us with a [free COVID tracker tutori
 Thanks to **COVID19api.com** for providing the [free API for data on the Coronavirus](https://covid19api.com/)
 
 ### You may also like..
+
 + [Weather App](https://github.com/MRBlach/weather-api "Weather App") - Local forcasting weather app
