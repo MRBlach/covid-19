@@ -32,12 +32,6 @@ COVID-19 Tracker
 ### Landing Page
 COVID-19 Tracker is design responsive automatically scaling its content to match the screen size.
    <img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports.png?raw=true">
-   
-## Buy me a coffee
-
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time to open-source projects like this.
-
-<a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## Demo
 Here is a working live demonstration: https://mrblach.github.io/covid-19/
@@ -63,19 +57,21 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[<img alt="user profile picture" src="https://github.com/MRBlach/covid-19/blob/main/images/avatar.png?raw=true"/>](https://github.com/MRBlach)  |
----|---
-[Melody R Blachowicz](https://github.com/MRBlach) |
+<img alt="user profile picture" src="https://github.com/MRBlach/covid-19/blob/main/images/avatar.png?raw=true"/>
+[Melody R Blachowicz](https://github.com/MRBlach) 
+   
+## Buy me a coffee
+
+Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time to open-source projects like this.
+
+<a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## You may also like..
 + [Weather App](https://github.com/MRBlach/weather-api "Weather App") - Local forcasting weather app
 
 ## Acknowledgments
 
-Thanks to **Code Explained** for supporting us with a [free Open Source License](https://www.youtube.com/watch?v=BzUFQDP8B28)
+Thanks to **Code Explained** for supporting us with a [free COVID tracker tutorial](https://www.youtube.com/watch?v=BzUFQDP8B28)
 <br>
-<img alt="you tube icon" src="https://github.com/MRBlach/covid-19/blob/main/images/youtube.png?raw=true"/>
+Thanks to **COVID19api.com** for providing the [free API for data on the Coronavirus](https://covid19api.com/)
 
-Thanks to **COVID19api.com** for providing a [free API for data on the Coronavirus](https://covid19api.com/)
-<br>
-<img alt="api logo" src="https://github.com/MRBlach/covid-19/blob/main/images/covid19api.png?raw=true" />
