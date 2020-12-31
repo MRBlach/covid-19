@@ -65,7 +65,8 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ---
 <h1 id="team">Team</h1>
 <img alt="user profile picture" src="https://github.com/MRBlach/covid-19/blob/main/images/avatar.png?raw=true"/>
-![Melody R Blachowicz](https://github.com/MRBlach) 
+
+[Melody R Blachowicz](https://github.com/MRBlach) 
  
 ### Support Me With Coffee
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time to open-source projects like this.
@@ -74,6 +75,7 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ---
 <h1 id="acknowledgments">Acknowledgments</h1>
+
 Thanks to **Code Explained** for supporting us with a [free COVID tracker tutorial](https://www.youtube.com/watch?v=BzUFQDP8B28)
 <br>
 Thanks to **COVID19api.com** for providing the [free API for data on the Coronavirus](https://covid19api.com/)
