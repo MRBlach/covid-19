@@ -21,9 +21,9 @@ COVID-19 Tracker
 - [Team](#team)
 - [Acknowledgments](#acknowledgments)
 
-## Introduction
+## Introduction {:#introduction}
 
-## Key Features
+## Key Features {:#features}
 + Live updates on stats
 + Over 200 countries to choose from
 + Graphical analysis of 3 key data points: <br>
@@ -33,7 +33,7 @@ COVID-19 Tracker
 + Responsive Design
 
 ---
-## Site
+## Site {:#site}
 ### Landing Page
 COVID-19 Tracker is design responsive automatically scaling its content to match the screen size.
    <img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports.png?raw=true">
@@ -42,7 +42,7 @@ COVID-19 Tracker is design responsive automatically scaling its content to match
 Here is a working live demonstration: https://mrblach.github.io/covid-19/
 
 ---
-## Development
+## Development {:#development}
 ### Contribute To The Code
 To fix a bug or enhance an existing module, follow these steps:
 
@@ -61,20 +61,17 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/MRBlach/covid-19/issues/new). Please include sample queries and their corresponding results.
 
 ---
-## Team
+## Team {:#team}
 <img alt="user profile picture" src="https://github.com/MRBlach/covid-19/blob/main/images/avatar.png?raw=true"/>
 ![Melody R Blachowicz](https://github.com/MRBlach) 
  
 ### Support Me With Coffee
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time to open-source projects like this.
 
-<a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Become A Patreon
-<a href="https://www.patreon.com/MRBlach"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
+<a href="https://www.buymeacoffee.com/MRBlach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> or <a href="https://www.patreon.com/MRBlach"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
 
 ---
-## Acknowledgments
+## Acknowledgments {:#acknowledgments}
 Thanks to **Code Explained** for supporting us with a [free COVID tracker tutorial](https://www.youtube.com/watch?v=BzUFQDP8B28)
 <br>
 Thanks to **COVID19api.com** for providing the [free API for data on the Coronavirus](https://covid19api.com/)
