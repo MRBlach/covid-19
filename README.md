@@ -42,12 +42,20 @@ An app using COVID19 API to display the latest coronavirus statistics. View curr
 
 ### Landing Page
 
-Our responsive design approach allows for ease of access across multiple devices.
-   <img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports.png?raw=true">
+Responsive design and mobile first approach allow for ease of access across devices.
 
-### Demo
+<img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports.png?raw=true">
 
 Here is a working live demonstration: https://mrblach.github.io/covid-19/
+
+### Steps To Execute This App
+- Download the entire code
+- Open the index.html file
+
+### Technologies used:
+- HTML
+- CSS 
+- Javascript 
 
 ---
 <h1 id="development">Development</h1>
