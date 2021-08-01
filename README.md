@@ -46,7 +46,7 @@ Responsive design and mobile first approach allow for ease of access across devi
 
 <img src="https://github.com/MRBlach/covid-19/blob/main/images/viewports.png?raw=true">
 
-Here is a working live demonstration: https://mrblach.github.io/covid-19/
+Here is a working live [demonstration](https://mrblach.github.io/covid-19/)
 
 ### Steps To Execute This App
 - Download the entire code
