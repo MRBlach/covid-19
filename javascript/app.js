@@ -1,18 +1,24 @@
+// Listen for start button click
 const start = document.querySelector('#start').addEventListener('click', mainPage);
+// Load main page
 function mainPage(e) {
   document.querySelector('footer').hidden = true;
   document.querySelector('main').hidden = false;
   document.querySelector('#home').hidden = true;
   document.querySelector('#about').hidden = true;
 };
+// Listen for homepage button click
 const goHome = document.querySelector('#goHome').addEventListener('click', homePage);
+// Display homepage
 function homePage(e) {
   document.querySelector('footer').hidden = false;
   document.querySelector('main').hidden = true;
   document.querySelector('#home').hidden = false;
   document.querySelector('#about').hidden = true;
 };
+// Listen for about button click
 const goAbout = document.querySelector('#goAbout').addEventListener('click', aboutPage);
+// Display about page
 function aboutPage(e) {
   document.querySelector('footer').hidden = false;
   document.querySelector('main').hidden = true;
@@ -20,7 +26,7 @@ function aboutPage(e) {
   document.querySelector('#about').hidden = false;
 };
 
-// SELECT ALL ELEMENTS
+// Select all elements for API data
 const country_name_element = document.querySelector(".country .name");
 const total_cases_element = document.querySelector(".total-cases .value");
 const new_cases_element = document.querySelector(".total-cases .new-value");
@@ -30,7 +36,7 @@ const deaths_element = document.querySelector(".deaths .value");
 const new_deaths_element = document.querySelector(".deaths .new-value");
 
 const ctx = document.getElementById("axes_line_chart").getContext("2d");
-// APP VARIABLES
+// APP variables
 let app_data = [],
   cases_list = [],
   recovered_list = [],
@@ -38,7 +44,7 @@ let app_data = [],
   deaths = [],
   formatedDates = [];
 
-// GET USERS COUNTRY CODE
+// Get users country code
 let country_code = 'US';
 let user_country;
 country_list.forEach((country) => {
@@ -118,12 +124,12 @@ function fetchData(country) {
 
 fetchData(user_country);
 
-// UPDATE UI FUNCTION
+// Update UI function
 function updateUI() {
   updateStats();
   axesLinearChart();
 }
-
+// Update statistics
 function updateStats() {
   const total_cases = cases_list[cases_list.length - 1];
   const new_confirmed_cases = total_cases - cases_list[cases_list.length - 2];
@@ -143,13 +149,13 @@ function updateStats() {
   deaths_element.innerHTML = total_deaths;
   new_deaths_element.innerHTML = `+${new_deaths_cases}`;
 
-  // format dates
+  // Format dates
   dates.forEach((date) => {
     formatedDates.push(formatDate(date));
   });
 }
 
-// UPDATE CHART
+// Update chart
 let my_chart;
 function axesLinearChart() {
   if (my_chart) {
@@ -195,7 +201,7 @@ function axesLinearChart() {
   });
 }
 
-// FORMAT DATES
+// Format dates
 const monthsNames = [
   "Jan",
   "Feb",
